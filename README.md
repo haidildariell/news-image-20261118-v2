@@ -1,8 +1,8 @@
 # The World Today — Wednesday 18 November 2026
 
-![Competition](https://make.fun/badge/news-image-20261118.svg)
-![Rank](https://make.fun/badge/news-image-20261118/haidildariell/news-image-20261118-v2/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261118/haidildariell/news-image-20261118-v2/reward.svg)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/haidildariell/news-image-20261118-v2/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/haidildariell/news-image-20261118-v2/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 Bounty: https://make.fun/bounty/news-image-20261118
 
